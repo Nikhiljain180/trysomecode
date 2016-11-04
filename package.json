@@ -1,0 +1,22 @@
+{
+  "name": "trysomecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhiljain180/trysomecode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhiljain180/trysomecode/issues"
+  },
+  "homepage": "https://github.com/Nikhiljain180/trysomecode#readme",
+  "dependencies": {
+    "jsdoc-githubify": "^0.1.3"
+  }
+}
